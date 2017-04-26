@@ -1,0 +1,17 @@
+ body { 	
+ 	margin: auto;
+}
+table {
+  table-layout: fixed;
+  width: 50%;
+  border-collapse: separate;
+
+
+}
+th, td {
+     vertical-align: inherit;
+  
+}
+td {
+  border: solid black;}
+}
