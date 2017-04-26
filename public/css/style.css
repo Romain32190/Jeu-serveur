@@ -1,17 +1,17 @@
- body { 	
- 	margin: auto;
+.dragon {
+	content:url(../res/img/dragon1.gif);
+	width: 80px;
+	text-align: center;
 }
-table {
-  table-layout: fixed;
-  width: 50%;
-  border-collapse: separate;
-
-
+.rocher {
+	content:url(../res/img/roc1.gif);
+	width: 30px;
 }
-th, td {
-     vertical-align: inherit;
-  
+.potager {
+	content:url(../res/img/herbe.gif);
+	width: 30px;
 }
-td {
-  border: solid black;}
+.paysan {
+	content:url(../res/img/avec-fourche.gif);
+	width: 30px;
 }
